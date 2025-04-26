@@ -1,4 +1,3 @@
-# Chess-AI-Alpha-Beta-and-MinMax-Implementation
 # Chess AI: Alpha-Beta vs. MinMax
 
 This repository contains two chess AI implementations: one using the **Alpha-Beta pruning algorithm** (`chess_alphabeta.py`) and another using the **MinMax algorithm** (`chess_minmax.py`). Both agents play chess against themselves, demonstrating the differences in performance and strategy between the two algorithms.
